@@ -1,0 +1,54 @@
+.container {
+    width: 500px;
+    margin: auto;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px #ccc;
+    text-align: center;
+    color: white;
+    padding-bottom: 30px;
+}
+
+.profile {
+    margin-top: 30px;
+}
+
+.profile h1 {
+    margin-top: 30px;
+    display: inline-block;
+    margin-bottom: -30px;
+}
+
+.skills {
+    text-align: left;
+}
+
+.skills h1 {
+    margin-left: 30px;
+}
+
+.skills ul {
+    list-style: none;
+}
+
+.skills ul li {
+    display: inline-block;
+    padding: 0px 10px;
+    color: aquamarine;
+}
+
+.social ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+.social ul li a {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+.social h1 {
+    margin-left: 30px;
+    text-align: left;
+}
